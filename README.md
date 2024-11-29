@@ -1,8 +1,8 @@
 # orcid
 
 [![orcid on npm](https://img.shields.io/npm/v/orcid.svg)](https://www.npmjs.com/package/orcid)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/curvenote/orcid/blob/main/LICENSE)
-![CI](https://github.com/curvenote/orcid/workflows/CI/badge.svg)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/continuous-foundation/orcid/blob/main/LICENSE)
+![CI](https://github.com/continuous-foundation/orcid/workflows/CI/badge.svg)
 
 A utility and CLI to work with [ORCID](https://orcid.org) in your applications.
 
@@ -59,7 +59,7 @@ As of v1.0.0 this package is [ESM only](https://gist.github.com/sindresorhus/a39
 
 <p style="text-align: center; color: #aaa; padding-top: 50px">
   Made with love by
-  <a href="https://curvenote.com" target="_blank" style="color: #aaa">
-    <img src="https://cdn.curvenote.com/brand/logo-blue-icon.png" style="height: 1em" /> Curvenote
+  <a href="https://continuous.foundation" target="_blank" style="color: #aaa">
+    Continuous Science Foundation <img src="https://continuous.foundation/images/logo-small.svg" style="height: 1em" />
   </a>
 </p>
